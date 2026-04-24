@@ -1,0 +1,48 @@
+{
+  "name": "Htaccess Generator Pro",
+  "slug": "htaccess-generator",
+  "description": "Professional Apache .htaccess file generator with rewrite rules, security headers, caching, and compression settings",
+  "tagline": "Generate production-ready .htaccess files in seconds",
+  "price": "$19",
+  "category": "devops",
+  "tags": [
+    "apache",
+    "htaccess",
+    "server-config",
+    "rewrite",
+    "security",
+    "performance"
+  ],
+  "features": [
+    "Rewrite rule generator for SEO-friendly URLs",
+    "Security headers configuration (X-Frame-Options, CSP, HSTS)",
+    "Browser caching and compression settings",
+    "IP blocking and hotlink protection",
+    "Custom error page redirects",
+    "SSL/HTTPS enforcement rules",
+    "Live preview with syntax highlighting",
+    "One-click copy and download"
+  ],
+  "status": "ready_to_deploy",
+  "created_cycle": 1058,
+  "target_audience": "Web developers, DevOps engineers, SEO specialists",
+  "seo_keywords": [
+    "htaccess generator",
+    "apache config",
+    "rewrite rules",
+    "htaccess security"
+  ],
+  "tech_stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  "checkout_url": "https://buy.polar.sh/polar_cl_mBF5fjnCVQeppqqYeCL5Wrc2ClWAvaWaxO3Wm3vwUFs",
+  "spec_version": "1.0",
+  "vercel_url": "https://htaccess-generator.vercel.app",
+  "deployed_cycle": 1108,
+  "payment_provider": "polar",
+  "polar_product_id": "95b73175-7b93-48f2-bf51-dbd8a3fe37da",
+  "polar_product_price_id": "70615a31-655e-4779-8030-947a55e262f0",
+  "polar_checkout_link_id": "80965f25-468e-4e58-bc66-b3642d4f5da1"
+}
